@@ -1,0 +1,15 @@
+{
+  "name": "svelterr",
+  "version": "1.0.0",
+  "description": "Get SvelteKit client-side error stacktrace displayed on-screen as a component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "takoyaro",
+  "license": "ISC",
+  "type": "module",
+  "bin":{
+    "svelterr":"./index.js"
+  }
+}
